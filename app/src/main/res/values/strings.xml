@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Priyatam Piyush</string>
+    <string name="Image_description">My image</string>
+    <string name="Bio">I am an undergrad From Jadavpur University Kolkata. I have a passion for building solutions which are scalable with the ever-changing technology landscape.I like staying up-to-date with the latest happenings occurring in the world of business and tech.I hope this message finds you well. My name is [Your Name], and I am writing to express my strong interest in the Full Stack Developer position at Pricelabs, as advertised on your company website. I am excited about the opportunity to bring my skills and experience in React for frontend development, Python for backend development, and expertise in AWS to your dynamic team.I have attached my resume for your consideration, and I would like to highlight my proficiency in leveraging React to create engaging and responsive user interfaces. In my recent projects, I have successfully implemented complex frontend features, ensuring an optimal user experience. Additionally my expertise in Python has been instrumental in developing robust and scalable backend solutions.</string>
+    <string name="What_is_your" />
+    <string name="What_is_your_nick_name">what is your nick name</string>
+    <string name="done">Done</string>
+</resources>
